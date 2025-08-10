@@ -23,7 +23,7 @@ Amacı, modern projelerde güvenli giriş-çıkış işlemleri ve yetkilendirme 
 - **SQL Server**
 - **FluentValidation**
 - **Hugging-Face AI**
-- 
+
 ## 📸 Proje Görselleri
 
 <img width="1581" height="735" alt="Login-Ekranı" src="https://github.com/user-attachments/assets/8486bd56-6d57-4166-a886-4181cb83257c" />
