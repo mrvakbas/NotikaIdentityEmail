@@ -13,7 +13,7 @@ Amacı, modern projelerde güvenli giriş-çıkış işlemleri ve yetkilendirme 
 - ✅ Entity Framework Core ile veritabanı işlemleri
 - ✅ Katmanlı mimari yapısı
 - ✅ Yapay Zeka (Hugging-Face) AI
-- 
+
 ## 🛠 Kullanılan Teknolojiler
 
 - **.NET 9.0**
