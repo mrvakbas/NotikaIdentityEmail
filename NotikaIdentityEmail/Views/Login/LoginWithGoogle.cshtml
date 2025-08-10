@@ -1,0 +1,16 @@
+﻿@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <br /> <br />
+    <form method="post" asp-controller="Login" asp-action="ExternalLogin">
+
+        <div class="alert alert-success"> <b>Google İle Giriş Yapın</b> </div>
+        <input type="hidden" name="provider" value="Google" />
+        <button class="login100-social-item bg3" type="submit">Giriş Yap</button>
+  
+    </form>
+</div>

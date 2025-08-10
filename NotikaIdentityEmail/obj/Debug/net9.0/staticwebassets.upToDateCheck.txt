@@ -1,0 +1,714 @@
+wwwroot\colorlib-regform-35\css\nunito-font.css
+wwwroot\colorlib-regform-35\css\style.css
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-Black.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-BlackItalic.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-Bold.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-BoldItalic.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-ExtraBold.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-ExtraBoldItalic.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-ExtraLight.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-ExtraLightItalic.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-Italic.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-Light.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-LightItalic.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-Regular.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-SemiBold.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\Nunito-SemiBoldItalic.ttf
+wwwroot\colorlib-regform-35\fonts\Nunito\OFL.txt
+wwwroot\colorlib-regform-35\images\form-v9.jpg
+wwwroot\colorlib-regform-35\index.html
+wwwroot\colorlib-regform-35\readme.txt
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\Login_v4\css\main.css
+wwwroot\Login_v4\css\util.css
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\css\font-awesome.css
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\HELP-US-OUT.txt
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\animated.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\bordered-pulled.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\core.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\fixed-width.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\font-awesome.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\icons.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\larger.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\list.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\mixins.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\path.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\rotated-flipped.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\screen-reader.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\stacked.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\less\variables.less
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\font-awesome.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_animated.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_core.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_fixed-width.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_icons.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_larger.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_list.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_mixins.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_path.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_screen-reader.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_stacked.scss
+wwwroot\Login_v4\fonts\font-awesome-4.7.0\scss\_variables.scss
+wwwroot\Login_v4\fonts\iconic\css\material-design-iconic-font.css
+wwwroot\Login_v4\fonts\iconic\css\material-design-iconic-font.min.css
+wwwroot\Login_v4\fonts\iconic\fonts\Material-Design-Iconic-Font.eot
+wwwroot\Login_v4\fonts\iconic\fonts\Material-Design-Iconic-Font.svg
+wwwroot\Login_v4\fonts\iconic\fonts\Material-Design-Iconic-Font.ttf
+wwwroot\Login_v4\fonts\iconic\fonts\Material-Design-Iconic-Font.woff
+wwwroot\Login_v4\fonts\iconic\fonts\Material-Design-Iconic-Font.woff2
+wwwroot\Login_v4\fonts\poppins\Poppins-Black.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-BlackItalic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-Bold.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-BoldItalic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-ExtraBold.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-ExtraBoldItalic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-ExtraLight.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-ExtraLightItalic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-Italic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-Light.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-LightItalic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-Medium.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-MediumItalic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-Regular.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-SemiBold.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-SemiBoldItalic.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-Thin.ttf
+wwwroot\Login_v4\fonts\poppins\Poppins-ThinItalic.ttf
+wwwroot\Login_v4\images\bg-01.jpg
+wwwroot\Login_v4\images\icons\favicon.ico
+wwwroot\Login_v4\index.html
+wwwroot\Login_v4\js\main.js
+wwwroot\Login_v4\vendor\animate\animate.css
+wwwroot\Login_v4\vendor\animsition\css\animsition.css
+wwwroot\Login_v4\vendor\animsition\css\animsition.min.css
+wwwroot\Login_v4\vendor\animsition\js\animsition.js
+wwwroot\Login_v4\vendor\animsition\js\animsition.min.js
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.css
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.css.map
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.min.css
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.min.css.map
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.css
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.css.map
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.min.css
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.min.css.map
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.css
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.css.map
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.min.css
+wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.min.css.map
+wwwroot\Login_v4\vendor\bootstrap\js\bootstrap.js
+wwwroot\Login_v4\vendor\bootstrap\js\bootstrap.min.js
+wwwroot\Login_v4\vendor\bootstrap\js\popper.js
+wwwroot\Login_v4\vendor\bootstrap\js\popper.min.js
+wwwroot\Login_v4\vendor\bootstrap\js\tooltip.js
+wwwroot\Login_v4\vendor\countdowntime\countdowntime.js
+wwwroot\Login_v4\vendor\css-hamburgers\hamburgers.css
+wwwroot\Login_v4\vendor\css-hamburgers\hamburgers.min.css
+wwwroot\Login_v4\vendor\daterangepicker\daterangepicker.css
+wwwroot\Login_v4\vendor\daterangepicker\daterangepicker.js
+wwwroot\Login_v4\vendor\daterangepicker\moment.js
+wwwroot\Login_v4\vendor\daterangepicker\moment.min.js
+wwwroot\Login_v4\vendor\jquery\jquery-3.2.1.min.js
+wwwroot\Login_v4\vendor\perfect-scrollbar\perfect-scrollbar.css
+wwwroot\Login_v4\vendor\perfect-scrollbar\perfect-scrollbar.min.js
+wwwroot\Login_v4\vendor\select2\select2.css
+wwwroot\Login_v4\vendor\select2\select2.js
+wwwroot\Login_v4\vendor\select2\select2.min.css
+wwwroot\Login_v4\vendor\select2\select2.min.js
+wwwroot\notika-master\documentation\css\32px.png
+wwwroot\notika-master\documentation\css\bootstrap.min.css
+wwwroot\notika-master\documentation\css\style.css
+wwwroot\notika-master\documentation\css\throbber.gif
+wwwroot\notika-master\documentation\css\tree-viewer.css
+wwwroot\notika-master\documentation\img\favicon.ico
+wwwroot\notika-master\documentation\img\logo.png
+wwwroot\notika-master\documentation\index.html
+wwwroot\notika-master\documentation\js\bootstrap.min.js
+wwwroot\notika-master\documentation\js\jquery-3.1.0.min.js
+wwwroot\notika-master\documentation\js\jstree.active.js
+wwwroot\notika-master\documentation\js\jstree.min.js
+wwwroot\notika-master\notika\green-horizotal\404.html
+wwwroot\notika-master\notika\green-horizotal\accordion.html
+wwwroot\notika-master\notika\green-horizotal\alert.html
+wwwroot\notika-master\notika\green-horizotal\analytics.html
+wwwroot\notika-master\notika\green-horizotal\animations.html
+wwwroot\notika-master\notika\green-horizotal\area-charts.html
+wwwroot\notika-master\notika\green-horizotal\bar-charts.html
+wwwroot\notika-master\notika\green-horizotal\buttons.html
+wwwroot\notika-master\notika\green-horizotal\chosen-sprite.png
+wwwroot\notika-master\notika\green-horizotal\code-editor.html
+wwwroot\notika-master\notika\green-horizotal\color.html
+wwwroot\notika-master\notika\green-horizotal\compose-email.html
+wwwroot\notika-master\notika\green-horizotal\contact.html
+wwwroot\notika-master\notika\green-horizotal\css\animate.css
+wwwroot\notika-master\notika\green-horizotal\css\animation\animation-custom.css
+wwwroot\notika-master\notika\green-horizotal\css\bootstrap-select\bootstrap-select.css
+wwwroot\notika-master\notika\green-horizotal\css\bootstrap.min.css
+wwwroot\notika-master\notika\green-horizotal\css\c3\c3.min.css
+wwwroot\notika-master\notika\green-horizotal\css\chosen\chosen-sprite.png
+wwwroot\notika-master\notika\green-horizotal\css\chosen\chosen.css
+wwwroot\notika-master\notika\green-horizotal\css\code-editor\1.jpg
+wwwroot\notika-master\notika\green-horizotal\css\code-editor\ambiance.css
+wwwroot\notika-master\notika\green-horizotal\css\code-editor\codemirror.css
+wwwroot\notika-master\notika\green-horizotal\css\color-picker\farbtastic.css
+wwwroot\notika-master\notika\green-horizotal\css\color-picker\marker.png
+wwwroot\notika-master\notika\green-horizotal\css\color-picker\mask.png
+wwwroot\notika-master\notika\green-horizotal\css\color-picker\wheel.png
+wwwroot\notika-master\notika\green-horizotal\css\cropper\cropper.min.css
+wwwroot\notika-master\notika\green-horizotal\css\datapicker\datepicker3.css
+wwwroot\notika-master\notika\green-horizotal\css\dialog\dialog.css
+wwwroot\notika-master\notika\green-horizotal\css\dialog\sweetalert2.min.css
+wwwroot\notika-master\notika\green-horizotal\css\dropzone\dropzone.css
+wwwroot\notika-master\notika\green-horizotal\css\font-awesome.min.css
+wwwroot\notika-master\notika\green-horizotal\css\jquery.dataTables.min.css
+wwwroot\notika-master\notika\green-horizotal\css\jvectormap\jquery-jvectormap-2.0.3.css
+wwwroot\notika-master\notika\green-horizotal\css\main.css
+wwwroot\notika-master\notika\green-horizotal\css\meanmenu\meanmenu.min.css
+wwwroot\notika-master\notika\green-horizotal\css\metisMenu\metisMenu-vertical.css
+wwwroot\notika-master\notika\green-horizotal\css\metisMenu\metisMenu.min.css
+wwwroot\notika-master\notika\green-horizotal\css\normalize.css
+wwwroot\notika-master\notika\green-horizotal\css\notification\notification.css
+wwwroot\notika-master\notika\green-horizotal\css\notika-custom-icon.css
+wwwroot\notika-master\notika\green-horizotal\css\owl.carousel.css
+wwwroot\notika-master\notika\green-horizotal\css\owl.theme.css
+wwwroot\notika-master\notika\green-horizotal\css\owl.transitions.css
+wwwroot\notika-master\notika\green-horizotal\css\responsive.css
+wwwroot\notika-master\notika\green-horizotal\css\scrollbar\jquery.mCustomScrollbar.min.css
+wwwroot\notika-master\notika\green-horizotal\css\summernote\summernote.css
+wwwroot\notika-master\notika\green-horizotal\css\themesaller-forms.css
+wwwroot\notika-master\notika\green-horizotal\css\wave\button.css
+wwwroot\notika-master\notika\green-horizotal\css\wave\waves.min.css
+wwwroot\notika-master\notika\green-horizotal\data-map.html
+wwwroot\notika-master\notika\green-horizotal\data-table.html
+wwwroot\notika-master\notika\green-horizotal\dialog.html
+wwwroot\notika-master\notika\green-horizotal\dropdown.html
+wwwroot\notika-master\notika\green-horizotal\flot-charts.html
+wwwroot\notika-master\notika\green-horizotal\fonts\fontawesome-webfont.eot
+wwwroot\notika-master\notika\green-horizotal\fonts\fontawesome-webfont.svg
+wwwroot\notika-master\notika\green-horizotal\fonts\fontawesome-webfont.ttf
+wwwroot\notika-master\notika\green-horizotal\fonts\fontawesome-webfont.woff
+wwwroot\notika-master\notika\green-horizotal\fonts\fontawesome-webfont.woff2
+wwwroot\notika-master\notika\green-horizotal\fonts\FontAwesome.otf
+wwwroot\notika-master\notika\green-horizotal\fonts\glyphicons-halflings-regular.eot
+wwwroot\notika-master\notika\green-horizotal\fonts\glyphicons-halflings-regular.svg
+wwwroot\notika-master\notika\green-horizotal\fonts\glyphicons-halflings-regular.ttf
+wwwroot\notika-master\notika\green-horizotal\fonts\glyphicons-halflings-regular.woff
+wwwroot\notika-master\notika\green-horizotal\fonts\glyphicons-halflings-regular.woff2
+wwwroot\notika-master\notika\green-horizotal\fonts\notika-icon.eot
+wwwroot\notika-master\notika\green-horizotal\fonts\notika-icon.svg
+wwwroot\notika-master\notika\green-horizotal\fonts\notika-icon.ttf
+wwwroot\notika-master\notika\green-horizotal\fonts\notika-icon.woff
+wwwroot\notika-master\notika\green-horizotal\form-components.html
+wwwroot\notika-master\notika\green-horizotal\form-elements.html
+wwwroot\notika-master\notika\green-horizotal\form-examples.html
+wwwroot\notika-master\notika\green-horizotal\google-map.html
+wwwroot\notika-master\notika\green-horizotal\image-cropper.html
+wwwroot\notika-master\notika\green-horizotal\images\select.png
+wwwroot\notika-master\notika\green-horizotal\images\sort_asc.png
+wwwroot\notika-master\notika\green-horizotal\images\sort_asc_disabled.png
+wwwroot\notika-master\notika\green-horizotal\images\sort_both.png
+wwwroot\notika-master\notika\green-horizotal\images\sort_desc.png
+wwwroot\notika-master\notika\green-horizotal\images\sort_desc_disabled.png
+wwwroot\notika-master\notika\green-horizotal\img\blog\1.jpg
+wwwroot\notika-master\notika\green-horizotal\img\chosen-sprite.png
+wwwroot\notika-master\notika\green-horizotal\img\country\1.png
+wwwroot\notika-master\notika\green-horizotal\img\country\2.png
+wwwroot\notika-master\notika\green-horizotal\img\country\3.png
+wwwroot\notika-master\notika\green-horizotal\img\cropper\1.jpg
+wwwroot\notika-master\notika\green-horizotal\img\dialog\like.png
+wwwroot\notika-master\notika\green-horizotal\img\favicon.ico
+wwwroot\notika-master\notika\green-horizotal\img\green1.png
+wwwroot\notika-master\notika\green-horizotal\img\logo\favicon.png
+wwwroot\notika-master\notika\green-horizotal\img\logo\logo.png
+wwwroot\notika-master\notika\green-horizotal\img\post\1.jpg
+wwwroot\notika-master\notika\green-horizotal\img\post\2.jpg
+wwwroot\notika-master\notika\green-horizotal\img\post\4.jpg
+wwwroot\notika-master\notika\green-horizotal\img\search-engines\baidu.png
+wwwroot\notika-master\notika\green-horizotal\img\search-engines\bing.png
+wwwroot\notika-master\notika\green-horizotal\img\search-engines\duckduckgo.png
+wwwroot\notika-master\notika\green-horizotal\img\search-engines\google.png
+wwwroot\notika-master\notika\green-horizotal\img\search-engines\yahoo.png
+wwwroot\notika-master\notika\green-horizotal\img\search-engines\yandex.png
+wwwroot\notika-master\notika\green-horizotal\img\widgets\2.png
+wwwroot\notika-master\notika\green-horizotal\img\widgets\4.png
+wwwroot\notika-master\notika\green-horizotal\img\widgets\6.png
+wwwroot\notika-master\notika\green-horizotal\inbox.html
+wwwroot\notika-master\notika\green-horizotal\index-2.html
+wwwroot\notika-master\notika\green-horizotal\index-3.html
+wwwroot\notika-master\notika\green-horizotal\index-4.html
+wwwroot\notika-master\notika\green-horizotal\index.html
+wwwroot\notika-master\notika\green-horizotal\invoice.html
+wwwroot\notika-master\notika\green-horizotal\js\animation\animation-active.js
+wwwroot\notika-master\notika\green-horizotal\js\autosize.min.js
+wwwroot\notika-master\notika\green-horizotal\js\bootstrap-select\bootstrap-select.js
+wwwroot\notika-master\notika\green-horizotal\js\bootstrap.min.js
+wwwroot\notika-master\notika\green-horizotal\js\charts\area-chart.js
+wwwroot\notika-master\notika\green-horizotal\js\charts\bar-chart.js
+wwwroot\notika-master\notika\green-horizotal\js\charts\Chart.js
+wwwroot\notika-master\notika\green-horizotal\js\charts\line-chart.js
+wwwroot\notika-master\notika\green-horizotal\js\chat\jquery.chat.js
+wwwroot\notika-master\notika\green-horizotal\js\chat\moment.min.js
+wwwroot\notika-master\notika\green-horizotal\js\chosen\chosen.jquery.js
+wwwroot\notika-master\notika\green-horizotal\js\code-editor\code-editor-active.js
+wwwroot\notika-master\notika\green-horizotal\js\code-editor\code-editor.js
+wwwroot\notika-master\notika\green-horizotal\js\code-editor\codemirror.js
+wwwroot\notika-master\notika\green-horizotal\js\color-picker\color-picker.js
+wwwroot\notika-master\notika\green-horizotal\js\color-picker\farbtastic.min.js
+wwwroot\notika-master\notika\green-horizotal\js\counterup\counterup-active.js
+wwwroot\notika-master\notika\green-horizotal\js\counterup\jquery.counterup.min.js
+wwwroot\notika-master\notika\green-horizotal\js\counterup\waypoints.min.js
+wwwroot\notika-master\notika\green-horizotal\js\cropper\cropper-actice.js
+wwwroot\notika-master\notika\green-horizotal\js\cropper\cropper.min.js
+wwwroot\notika-master\notika\green-horizotal\js\data-map\d3.min.js
+wwwroot\notika-master\notika\green-horizotal\js\data-map\data-maps-active.js
+wwwroot\notika-master\notika\green-horizotal\js\data-map\datamaps.all.min.js
+wwwroot\notika-master\notika\green-horizotal\js\data-map\topojson.js
+wwwroot\notika-master\notika\green-horizotal\js\data-table\data-table-act.js
+wwwroot\notika-master\notika\green-horizotal\js\data-table\jquery.dataTables.min.js
+wwwroot\notika-master\notika\green-horizotal\js\datapicker\bootstrap-datepicker.js
+wwwroot\notika-master\notika\green-horizotal\js\datapicker\datepicker-active.js
+wwwroot\notika-master\notika\green-horizotal\js\dialog\dialog-active.js
+wwwroot\notika-master\notika\green-horizotal\js\dialog\sweetalert2.min.js
+wwwroot\notika-master\notika\green-horizotal\js\dropzone\dropzone.js
+wwwroot\notika-master\notika\green-horizotal\js\easytopie\jquery.easypiechart.min.js
+wwwroot\notika-master\notika\green-horizotal\js\easytopie\salvattore.min.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\analtic-flot-active.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\chart-tooltips.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\curvedLines.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\flot-active.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\flot-widget-anatic-active.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.orderBars.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.pie.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.resize.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.time.js
+wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.tooltip.min.js
+wwwroot\notika-master\notika\green-horizotal\js\google.maps\google.maps-active.js
+wwwroot\notika-master\notika\green-horizotal\js\google.maps\google.maps2-active.js
+wwwroot\notika-master\notika\green-horizotal\js\icheck\icheck-active.js
+wwwroot\notika-master\notika\green-horizotal\js\icheck\icheck.min.js
+wwwroot\notika-master\notika\green-horizotal\js\jasny-bootstrap.min.js
+wwwroot\notika-master\notika\green-horizotal\js\jquery-price-slider.js
+wwwroot\notika-master\notika\green-horizotal\js\jquery.scrollUp.min.js
+wwwroot\notika-master\notika\green-horizotal\js\jvectormap\jquery-jvectormap-2.0.2.min.js
+wwwroot\notika-master\notika\green-horizotal\js\jvectormap\jquery-jvectormap-world-mill-en.js
+wwwroot\notika-master\notika\green-horizotal\js\jvectormap\jvectormap-active.js
+wwwroot\notika-master\notika\green-horizotal\js\knob\jquery.appear.js
+wwwroot\notika-master\notika\green-horizotal\js\knob\jquery.knob.js
+wwwroot\notika-master\notika\green-horizotal\js\knob\knob-active.js
+wwwroot\notika-master\notika\green-horizotal\js\login\login-action.js
+wwwroot\notika-master\notika\green-horizotal\js\main.js
+wwwroot\notika-master\notika\green-horizotal\js\meanmenu\jquery.meanmenu.js
+wwwroot\notika-master\notika\green-horizotal\js\metisMenu\metisMenu-active.js
+wwwroot\notika-master\notika\green-horizotal\js\metisMenu\metisMenu.min.js
+wwwroot\notika-master\notika\green-horizotal\js\notification\bootstrap-growl.min.js
+wwwroot\notika-master\notika\green-horizotal\js\notification\notification-active.js
+wwwroot\notika-master\notika\green-horizotal\js\owl.carousel.min.js
+wwwroot\notika-master\notika\green-horizotal\js\plugins.js
+wwwroot\notika-master\notika\green-horizotal\js\rangle-slider\jquery-ui-1.10.4.custom.min.js
+wwwroot\notika-master\notika\green-horizotal\js\rangle-slider\jquery-ui-touch-punch.min.js
+wwwroot\notika-master\notika\green-horizotal\js\rangle-slider\rangle-active.js
+wwwroot\notika-master\notika\green-horizotal\js\scrollbar\jquery.mCustomScrollbar.concat.min.js
+wwwroot\notika-master\notika\green-horizotal\js\sparkline\jquery.sparkline.min.js
+wwwroot\notika-master\notika\green-horizotal\js\sparkline\sparkline-active.js
+wwwroot\notika-master\notika\green-horizotal\js\summernote\summernote-active.js
+wwwroot\notika-master\notika\green-horizotal\js\summernote\summernote-updated.min.js
+wwwroot\notika-master\notika\green-horizotal\js\summernote\summernote.min.js
+wwwroot\notika-master\notika\green-horizotal\js\tawk-chat.js
+wwwroot\notika-master\notika\green-horizotal\js\todo\jquery.todo.js
+wwwroot\notika-master\notika\green-horizotal\js\vendor\jquery-1.12.4.min.js
+wwwroot\notika-master\notika\green-horizotal\js\vendor\modernizr-2.8.3.min.js
+wwwroot\notika-master\notika\green-horizotal\js\wave\wave-active.js
+wwwroot\notika-master\notika\green-horizotal\js\wave\waves.min.js
+wwwroot\notika-master\notika\green-horizotal\js\wizard\jquery.bootstrap.wizard.min.js
+wwwroot\notika-master\notika\green-horizotal\js\wizard\wizard-active.js
+wwwroot\notika-master\notika\green-horizotal\js\wow.min.js
+wwwroot\notika-master\notika\green-horizotal\line-charts.html
+wwwroot\notika-master\notika\green-horizotal\login-register.html
+wwwroot\notika-master\notika\green-horizotal\modals.html
+wwwroot\notika-master\notika\green-horizotal\normal-table.html
+wwwroot\notika-master\notika\green-horizotal\notification.html
+wwwroot\notika-master\notika\green-horizotal\popovers.html
+wwwroot\notika-master\notika\green-horizotal\style.css
+wwwroot\notika-master\notika\green-horizotal\tabs.html
+wwwroot\notika-master\notika\green-horizotal\tooltips.html
+wwwroot\notika-master\notika\green-horizotal\typography.html
+wwwroot\notika-master\notika\green-horizotal\view-email.html
+wwwroot\notika-master\notika\green-horizotal\widgets.html
+wwwroot\notika-master\notika\green-horizotal\wizard.html
+wwwroot\notika-master\README.md
+wwwroot\userimages\01.jpg
+wwwroot\userimages\02.jpg
+wwwroot\userimages\03.jpg
+wwwroot\userimages\04.jpg
+wwwroot\userimages\05.jpg
+wwwroot\userimages\06.jpg
+wwwroot\userimages\07.jpg
+wwwroot\userimages\08.jpg
+wwwroot\userimages\09.jpg
+wwwroot\userimages\10.jpg
+wwwroot\userimages\11.jpg
+wwwroot\userimages\12.png
+wwwroot\userimages\13.jpg
+wwwroot\userimages\14.jpg
+wwwroot\userimages\15.jpg
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\colorlib-regform-35\css\nunito-font.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\colorlib-regform-35\css\style.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\colorlib-regform-35\fonts\Nunito\OFL.txt
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\colorlib-regform-35\index.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\colorlib-regform-35\readme.txt
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\css\site.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\favicon.ico
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\js\site.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\css\main.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\css\util.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\font-awesome-4.7.0\css\font-awesome.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\font-awesome-4.7.0\HELP-US-OUT.txt
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\iconic\css\material-design-iconic-font.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\iconic\css\material-design-iconic-font.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\fonts\iconic\fonts\Material-Design-Iconic-Font.svg
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\images\icons\favicon.ico
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\index.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\js\main.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\animate\animate.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\animsition\css\animsition.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\animsition\css\animsition.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\animsition\js\animsition.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\animsition\js\animsition.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-grid.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap-reboot.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\css\bootstrap.min.css.map
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\js\bootstrap.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\js\bootstrap.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\js\popper.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\js\popper.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\bootstrap\js\tooltip.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\countdowntime\countdowntime.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\css-hamburgers\hamburgers.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\css-hamburgers\hamburgers.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\daterangepicker\daterangepicker.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\daterangepicker\daterangepicker.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\daterangepicker\moment.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\daterangepicker\moment.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\jquery\jquery-3.2.1.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\perfect-scrollbar\perfect-scrollbar.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\perfect-scrollbar\perfect-scrollbar.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\select2\select2.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\select2\select2.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\select2\select2.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\Login_v4\vendor\select2\select2.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\css\bootstrap.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\css\style.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\css\tree-viewer.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\img\favicon.ico
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\index.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\js\bootstrap.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\js\jquery-3.1.0.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\js\jstree.active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\documentation\js\jstree.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\404.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\accordion.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\alert.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\analytics.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\animations.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\area-charts.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\bar-charts.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\buttons.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\code-editor.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\color.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\compose-email.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\contact.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\animate.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\animation\animation-custom.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\bootstrap-select\bootstrap-select.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\bootstrap.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\c3\c3.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\chosen\chosen.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\code-editor\ambiance.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\code-editor\codemirror.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\color-picker\farbtastic.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\cropper\cropper.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\datapicker\datepicker3.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\dialog\dialog.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\dialog\sweetalert2.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\dropzone\dropzone.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\font-awesome.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\jquery.dataTables.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\jvectormap\jquery-jvectormap-2.0.3.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\main.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\meanmenu\meanmenu.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\metisMenu\metisMenu-vertical.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\metisMenu\metisMenu.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\normalize.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\notification\notification.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\notika-custom-icon.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\owl.carousel.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\owl.theme.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\owl.transitions.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\responsive.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\scrollbar\jquery.mCustomScrollbar.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\summernote\summernote.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\themesaller-forms.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\wave\button.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\css\wave\waves.min.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\data-map.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\data-table.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\dialog.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\dropdown.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\flot-charts.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\fonts\fontawesome-webfont.svg
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\fonts\FontAwesome.otf
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\fonts\glyphicons-halflings-regular.svg
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\fonts\notika-icon.svg
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\form-components.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\form-elements.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\form-examples.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\google-map.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\image-cropper.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\img\favicon.ico
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\inbox.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\index-2.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\index-3.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\index-4.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\index.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\invoice.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\animation\animation-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\autosize.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\bootstrap-select\bootstrap-select.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\bootstrap.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\charts\area-chart.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\charts\bar-chart.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\charts\Chart.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\charts\line-chart.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\chat\jquery.chat.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\chat\moment.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\chosen\chosen.jquery.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\code-editor\code-editor-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\code-editor\code-editor.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\code-editor\codemirror.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\color-picker\color-picker.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\color-picker\farbtastic.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\counterup\counterup-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\counterup\jquery.counterup.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\counterup\waypoints.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\cropper\cropper-actice.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\cropper\cropper.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\data-map\d3.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\data-map\data-maps-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\data-map\datamaps.all.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\data-map\topojson.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\data-table\data-table-act.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\data-table\jquery.dataTables.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\datapicker\bootstrap-datepicker.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\datapicker\datepicker-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\dialog\dialog-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\dialog\sweetalert2.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\dropzone\dropzone.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\easytopie\jquery.easypiechart.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\easytopie\salvattore.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\analtic-flot-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\chart-tooltips.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\curvedLines.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\flot-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\flot-widget-anatic-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.orderBars.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.pie.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.resize.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.time.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\flot\jquery.flot.tooltip.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\google.maps\google.maps-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\google.maps\google.maps2-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\icheck\icheck-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\icheck\icheck.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\jasny-bootstrap.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\jquery-price-slider.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\jquery.scrollUp.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\jvectormap\jquery-jvectormap-2.0.2.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\jvectormap\jquery-jvectormap-world-mill-en.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\jvectormap\jvectormap-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\knob\jquery.appear.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\knob\jquery.knob.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\knob\knob-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\login\login-action.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\main.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\meanmenu\jquery.meanmenu.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\metisMenu\metisMenu-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\metisMenu\metisMenu.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\notification\bootstrap-growl.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\notification\notification-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\owl.carousel.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\plugins.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\rangle-slider\jquery-ui-1.10.4.custom.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\rangle-slider\jquery-ui-touch-punch.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\rangle-slider\rangle-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\scrollbar\jquery.mCustomScrollbar.concat.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\sparkline\jquery.sparkline.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\sparkline\sparkline-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\summernote\summernote-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\summernote\summernote-updated.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\summernote\summernote.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\tawk-chat.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\todo\jquery.todo.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\vendor\jquery-1.12.4.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\vendor\modernizr-2.8.3.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\wave\wave-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\wave\waves.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\wizard\jquery.bootstrap.wizard.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\wizard\wizard-active.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\js\wow.min.js
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\line-charts.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\login-register.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\modals.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\normal-table.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\notification.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\popovers.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\style.css
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\tabs.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\tooltips.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\typography.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\view-email.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\widgets.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\notika\green-horizotal\wizard.html
+C:\Users\user\Desktop\M&Y Yazılım\Projeler c# eğitim seti udemy kursu\NotikaIdentityEmail\NotikaIdentityEmail\wwwroot\notika-master\README.md

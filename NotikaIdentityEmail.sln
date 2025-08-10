@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotikaIdentityEmail", "NotikaIdentityEmail\NotikaIdentityEmail.csproj", "{9363BB89-D0F8-477B-B925-A99304EBBBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9363BB89-D0F8-477B-B925-A99304EBBBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9363BB89-D0F8-477B-B925-A99304EBBBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9363BB89-D0F8-477B-B925-A99304EBBBCF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9363BB89-D0F8-477B-B925-A99304EBBBCF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {609D7DF9-7017-4051-8431-51AAC695471A}
+	EndGlobalSection
+EndGlobal
